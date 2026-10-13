@@ -39,7 +39,7 @@ A household chore, a guild task and a workshop with many floors run the same cel
 
 ## How a Flow uses it
 1. Turn inward: name the principle under the question.
-2. Pick the smallest cell that serves it (Fibonacci step 1).
+2. Pick the smallest cell that serves it (Fibonacci step 1, after step 0: wipe the whiteboard, find the principle).
 3. Run preparation → execution → control.
 4. Let the next turn be φ larger, not ten times larger.
 5. Doubt travels upward, never sideways into action.
