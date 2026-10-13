@@ -1,0 +1,10 @@
+{
+  "name": "flow-coop",
+  "displayName": "Flow Coöp",
+  "version": "0.2.0",
+  "description": "Flow skills for agent swarms: from linear and explosive to fractal and implosive. A phi-spiral heart, a starter Workshop Board, an explain protocol, mail presence and a guild seat (master, journeymen, apprentice) - every job a cell: preparation, execution, control.",
+  "author": { "name": "Flow Coop (flow0369)" },
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["flow", "swarm", "guild", "phi", "fibonacci", "fractal", "implosion", "workshop-board", "honeycomb"]
+}
